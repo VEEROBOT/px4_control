@@ -33,7 +33,7 @@ make px4_sitl_default
 ```bash
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
-git clone https://github.com/RuslanAgishev/px4_control/
+git clone https://github.com/VEEROBOT/px4_control/
 cd ~/catkin_ws
 catkin_make
 source ~/catkin_ws/devel/setup.bash
